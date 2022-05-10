@@ -1,6 +1,6 @@
 ## 👏🏻欢迎来到胖鱼的设计方向分享趴
 
-在这里，我会分享一些设计/作图一些相关过程的网站，我会把我保存的/用起来觉得不错的网站整理出来。
+在这里，我会分享一些设计/作图一些相关过程的网站，我会把收藏/用起来觉得不错的网站整理出来（算是个人收藏夹的备份整理）。
 
 🤟🏻话不多说，开始吧！
 
@@ -36,6 +36,8 @@
 * [Photomosh](https://photomosh.com/) ：可将自己的图片设置成「抖音」风格抖动类，以及多种「混乱」风格的网站
 * [图标云](http://www.bgpatterns.com/) ：如名所示，不多解释
 * [silk](http://weavesilk.com/) ：制作线条/对称/随意的科幻类背景的网站
+* [Blobmixer](https://blobmixer.14islands.com/)：制作 3D 模型为背景的图片网站，可以调整 3D 模型的参数进行生成
+* [Haikei](https://app.haikei.app/)：制作简单元素背景图片的在线网站
 
 
 ### 🌻图标类网站
@@ -52,6 +54,9 @@
 * [觅元素](http://www.51yuansu.com/) ：国内的一个免抠素材网站，免费账户每人有下载次数限制
 * [Stick PNG](http://www.stickpng.com/) ：国外的一个PNG素材网站，高清/风格多/齐全，还有好多油管网红的素材，强推✨
 * [pngimg](http://pngimg.com/) ：国外的一个很硬核的png素材，就是那种很正式的，而且不会跑题的那种素材网站。推荐✨
+* [Open Peeps](https://www.openpeeps.com/)：类似 Notion 风格的任务素材库，可以自行设计人物细节进行导出；严肃风但不怎么可爱🤔
+* [DOTOWN](https://dotown.maeda-design-room.net/)：来自日本的元素风 PNG 图片网站
+* [CocoMaterial](https://cocomaterial.com/)：手绘风格的 PNG 素材网站
 
 
 ### 🍋GIF素材网站
@@ -89,6 +94,7 @@
 * [Awwwards](https://www.awwwards.com/websites/) ：网站的作品均由国际类设计师打分后进行展示，质量比较高，推荐✨
 * [Collect UI](http://collectui.com/challenges/calendar) ：按主题/元素分类的UI展示类网站
 * [Muuuuu](http://muuuuu.org/) ：日本的一个网站收集展示类网站，质量较高
+* [UIHUT](https://uihut.com/)：按主题/元素分类的UI展示类网站
 
 
 ### ✂️在线图片设计网站
@@ -98,10 +104,19 @@
 * [创客贴](https://www.chuangkit.com/usetutorial) ：无需多说，国内在线设计网站创始
 * [稿定设计](https://www.gaoding.com/) ：类似于创客贴的国内网站，它还有一个「一秒抠图」的神奇功能，可以把玩
 * [arkie智能设计](https://www.arkie.cn/scenarios) ：模板更改素材类的在线设计网站
+* [Pitch](https://pitch.com/)：超可爱/好看的在线幻灯片设计网站，可下客户端
+
+
+### 🐟可可爱爱超有趣的网站推荐
+
+* [GT Maru Typeface](https://www.gt-maru.com/#story)：一个字体介绍网站，但是页面超级可爱，交互也很有趣！
+* [Buttsss](https://www.buttsss.com/)：一个全是“屁屁”元素的 gif 图片网站，❌ghs，只是一些利用屁屁角度进行搞怪的动图，超级可爱
+* [Townscaper](https://oskarstalberg.com/Townscaper/)：一个无聊时可以自行在湖面盖楼的治愈小游戏页面（也不算游戏啦），可以自己建造房屋样式和颜色（还有小动物自己动），很可爱很有意思！
+* [Jesse's Ramen](https://jesse-zhou.com/)：一个设计和交互都现实+科技的个人主页
+* [John Beresford](https://www.john-beresford.com/)：跟上边类似元素的个人主页
 
 ---
-📣好啦，基本类目就是这些。
-当然，以后我也会不定期更新这个列表，会增加更多更有趣好玩的网站。
+📣好啦，基本类目就是这些。当然，以后我也会不定期更新这个列表（比如隔了三年），会增加更多更有趣好玩的网站。
 
 Thanks for your watching~
 🙆‍♀️
