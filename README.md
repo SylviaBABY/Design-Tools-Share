@@ -24,7 +24,7 @@
 * [1x](https://1x.com/) ：同摄影类作品，大片系。更多的是风景/动物/人物类实景图片
 
 
-### 🌸特色图片背景类
+### 🌸图片背景自定类
 
 * [unDraw](https://undraw.co/) ：抽象式的主题图片，可做公众号封面图/主题图等
 * [天空之城](https://www.skypixel.com/) ：国内的航拍类照片素材网站
@@ -36,6 +36,7 @@
 * [silk](http://weavesilk.com/) ：制作线条/对称/随意的科幻类背景的网站
 * [Blobmixer](https://blobmixer.14islands.com/)：制作 3D 模型为背景的图片网站，可以调整 3D 模型的参数进行生成
 * [Haikei](https://app.haikei.app/)：制作简单元素背景图片的在线网站
+* [Coverview](https://coverview.vercel.app/)：生成简易封面图的在线网站，有几种风格可选，还可用于展示 macOS 风格的截图；操作简单适合不想花费时间去设计的非专业宝宝
 
 
 ### 🌻图标类网站
@@ -110,6 +111,7 @@
 * [GT Maru Typeface](https://www.gt-maru.com/#story)：一个字体介绍网站，但是页面超级可爱，交互也很有趣！
 * [Buttsss](https://www.buttsss.com/)：一个全是“屁屁”元素的 gif 图片网站，❌ghs，只是一些利用屁屁角度进行搞怪的动图，超级可爱
 * [Townscaper](https://oskarstalberg.com/Townscaper/)：一个无聊时可以自行在湖面盖楼的治愈小游戏页面（也不算游戏啦），可以自己建造房屋样式和颜色（还有小动物自己动），很可爱很有意思！
+* [AC-chan](https://aidn.jp/jingle/)：只需输入一个想要风格的名称，就会自动生成一段切合该主题的简短音乐
 * [Jesse's Ramen](https://jesse-zhou.com/)：一个设计和交互都现实+科技的个人主页
 * [John Beresford](https://www.john-beresford.com/)：跟上边类似元素的个人主页
 
