@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">欢迎来到胖鱼的设计素材分享趴
+## <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="28px" height="28px"/>欢迎来到胖鱼的设计素材分享趴
 
 在这里，我会分享一些设计/作图一些相关过程的网站。我会把收藏/用起来觉得不错的网站整理出来（算是个人收藏夹的备份整理）
 
