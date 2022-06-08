@@ -1,8 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="28px" height="28px"/>欢迎来到胖鱼的设计素材分享趴
 
 在这里，我会分享一些设计/作图一些相关过程的网站。我会把收藏/用起来觉得不错的网站整理出来（算是个人收藏夹的备份整理）
-
-<div align='center'>(｡’▽’｡)♡ 话不多说，开始吧！</div>
+(｡’▽’｡)♡ 话不多说，开始吧！
 
 ### 🍀基础图片素材类(众所周知）
 
@@ -22,6 +21,7 @@
 * [画旅途](http://www.hualvtu.com/) ：旅拍类的一个网站，基本都是城市/风景高质量照片
 * [Moose](https://photos.icons8.com/) ：一个很满足强迫症的网站，色系跟主题比较偏简洁风，做壁纸都很nice
 * [1x](https://1x.com/) ：同摄影类作品，大片系。更多的是风景/动物/人物类实景图片
+* [Artvee](https://artvee.com/)：油画类公共作品合集
 
 
 ### 🌸图片背景自定类
