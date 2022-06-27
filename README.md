@@ -37,6 +37,7 @@
 * [Blobmixer](https://blobmixer.14islands.com/)：制作 3D 模型为背景的图片网站，可以调整 3D 模型的参数进行生成
 * [Haikei](https://app.haikei.app/)：制作简单元素背景图片的在线网站
 * [Coverview](https://coverview.vercel.app/)：生成简易封面图的在线网站，有几种风格可选，还可用于展示 macOS 风格的截图；操作简单适合不想花费时间去设计的非专业宝宝
+* [fffuel](https://fffuel.co/)：汇总了多个制作背景图片类型的工具
 
 
 ### 🌻图标类网站
