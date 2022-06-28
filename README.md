@@ -57,6 +57,7 @@
 * [Open Peeps](https://www.openpeeps.com/)：类似 Notion 风格的任务素材库，可以自行设计人物细节进行导出；严肃风但不怎么可爱🤔
 * [DOTOWN](https://dotown.maeda-design-room.net/)：来自日本的元素风 PNG 图片网站
 * [CocoMaterial](https://cocomaterial.com/)：手绘风格的 PNG 素材网站
+* [Remover](https://remover.zmo.ai/)：一个 AI 自动扣图网站，看起来效果还阔以
 
 
 ### 🍋GIF素材网站
@@ -115,6 +116,7 @@
 * [AC-chan](https://aidn.jp/jingle/)：只需输入一个想要风格的名称，就会自动生成一段切合该主题的简短音乐
 * [Jesse's Ramen](https://jesse-zhou.com/)：一个设计和交互都现实+科技的个人主页
 * [John Beresford](https://www.john-beresford.com/)：跟上边类似元素的个人主页
+* [IDEA](https://idea-instructions.com/)：一个用类似宜家说明书风格的画风来展示一些技术定义的网站，可以下载完整版 PDF
 
 ---
 📣好啦，基本类目就是这些。当然，以后我也会不定期更新这个列表（比如隔了三年），会增加更多更有趣好玩的网站。
